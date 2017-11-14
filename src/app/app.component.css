@@ -1,0 +1,12 @@
+.ColorBlock {
+    width: 150;
+    max-width: 150;
+    height: 150;
+    max-height: 150;
+    border: thin solid black;
+    display: inline;
+}
+
+.row {
+    /* width: 100px; */
+}
